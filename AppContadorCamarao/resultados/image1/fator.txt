@@ -1,0 +1,3 @@
+Fator 130
+Area: 2360
+Pera: 0.76
